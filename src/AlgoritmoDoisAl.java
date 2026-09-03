@@ -1,5 +1,5 @@
 public class AlgoritmoDoisAl {
-    
+
     void main() {
         IO.println("\nQuem ousa entrar na Sala do Eco?");
         String nome = IO.readln();
@@ -8,8 +8,8 @@ public class AlgoritmoDoisAl {
         IO.println("\nQuantos algoritmos você já venceu?");
         String resposta = IO.readln();
         // int total = resposta +1; isso não soma
-        
-        IO.println("\nQuantos algoritmos você já venceu?");
+        int total = Integer.parseInt(resposta);
+        IO.println("Só mais " + (360 - total) + " pela frente.");
 
     }
 }
