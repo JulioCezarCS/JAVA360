@@ -1,6 +1,6 @@
 public class AlgoritmoSeis {
     public static void main(String[] args) {
-        
+
         IO.println("\nOlá! Apresente-se, por favor.\n");
 
         String nome = IO.readln("Digite seu nome: ");

@@ -9,7 +9,7 @@ public class AlgoritmoDois {
         // int estrelas = 0; // mais rápido, porém, não tem métodos
         // Integer.parseInt(valor para conversão); // Integer é uma classe
         // Integer = Classe Wrappers
-        
+
         int estrelas = 0;
         IO.println("\nQuem criou o Java? ");
         IO.println("\n1 - James Gosling");
