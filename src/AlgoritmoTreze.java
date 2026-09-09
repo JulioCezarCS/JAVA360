@@ -12,17 +12,19 @@ public class AlgoritmoTreze {
             System.out.println("\nO número " + n1 + " é o maior.\n");
         } else if (n2 > n1 && n2 > n3) {
             System.out.println("\nO número " + n2 + " é o maior.\n");
-        } else {
+        } else if (n3 > n1 && n3 > n2) {
             System.out.println("\nO número " + n3 + " é o maior.\n");
+        } else {
+            System.out.println("\nOs números são iguais.\n");
         }
-
-        /*
+        
         if (n1 > n2) {
             System.out.println("\nO número " + n1 + " é o maior.\n");
-        } else {
+        } else if (n2 > n3) {
             System.out.println("\nO número " + n2 + " é o maior.\n");
+        } else {
+            System.out.println("\nOs números são iguais.\n");
         }
-        */
-
+         
     }
 }
