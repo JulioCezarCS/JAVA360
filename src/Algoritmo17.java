@@ -18,6 +18,10 @@ public class Algoritmo17 {
          * }
          */
 
+        // Excluir linha vertical: Ctrl + Shift + L
+
+        // Comentar tudo automaticamente: Shift + Alt + A
+
         // Mostre números pares de 0 a 200 usando do while
 
         do {
@@ -25,7 +29,7 @@ public class Algoritmo17 {
                 System.out.println(i);
                 i++;
             } else {
-                System.out.println("\n");
+                System.out.println("|");
                 i++;
             }
 
