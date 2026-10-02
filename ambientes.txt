@@ -1,0 +1,4 @@
+G09;Oficina de Lanternagem e pintura;02/10/2026 09:28:27
+J09;Jovem Julio Jovem Java;02/10/2026 09:42:48
+B03;Sala de aula padrão;02/10/2026 09:28:27
+F07;Laboratório de Programação Java;02/10/2026 09:28:27
